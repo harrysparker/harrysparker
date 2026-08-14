@@ -1,0 +1,6 @@
+{
+  "name": "Ivoire Delivery",
+  "description": "Plateforme nationale de livraison intelligente en Côte d'Ivoire (Bouaké, Korhogo, Yamoussoukro, Daloa, San-Pédro, Man, Abidjan) connectant clients, commerçants et livreurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
